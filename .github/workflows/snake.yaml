@@ -1,3 +1,6 @@
+* https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/7oSkaaa.md
+* https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/0ssinsight-widget.md
+
 name: Generate snake animation
 
 on:
@@ -32,3 +35,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
