@@ -43,8 +43,23 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+  <!-- LinkedIn icon links to your LinkedIn page -->
+  <a href="https://www.linkedin.com/in/YourLinkedInProfile" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <!-- Gmail icon copies email to clipboard -->
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" style="cursor: pointer;" onclick="copyEmail()" />
+  </div>
+
+<script>
+  function copyEmail() {
+    const email = "shaima.baasher@gmail.com"; // Replace with your email
+    navigator.clipboard.writeText(email).then(() => {
+      alert('Email copied to clipboard!');
+    }).catch(err => {
+      console.error('Failed to copy email: ', err);
+    });
+  }
+</script>
 
 ###
