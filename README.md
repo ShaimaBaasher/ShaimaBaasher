@@ -4,7 +4,7 @@
 
 <p align="left" style="font-size: 16px;">
 ✨ I specialize in mobile app development with a strong focus on <b>Flutter</b>, <b>Android Native</b>, and junior experience in <b>iOS</b> and <b>Python</b>.<br><br>
-🚀 Passionate about crafting intuitive and efficient applications, I thrive on solving complex problems, implementing real-time functionalities, and integrating robust features like <b>payment gateways</b>, <b>real-time notifications</b>, and <b>data handling</b>.<br><br>
+🚀 Passionate about crafting intuitive and efficient applications, I thrive on solving complex problems, implementing real-time functionalities, and integrating robust features .
 🤖 Currently, I'm exploring machine learning frameworks like <b>TensorFlow</b> and <b>PyTorch</b> to expand my skillset.<br><br>
 </p>
 
