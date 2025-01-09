@@ -48,18 +48,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <!-- Gmail icon copies email to clipboard -->
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" style="cursor: pointer;" onclick="copyEmail()" />
+<a href="mailto:shaima.baasher@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+</a>
   </div>
-
-<script>
-  function copyEmail() {
-    const email = "shaima.baasher@gmail.com"; // Replace with your email
-    navigator.clipboard.writeText(email).then(() => {
-      alert('Email copied to clipboard!');
-    }).catch(err => {
-      console.error('Failed to copy email: ', err);
-    });
-  }
-</script>
 
 ###
