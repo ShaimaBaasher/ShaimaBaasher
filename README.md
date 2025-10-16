@@ -23,7 +23,25 @@
 
 <ul>
   <li>
-    <a href="https://github.com/ShaimaBaasher/CustomerMobileApp"><b>CustomerMobileApp</b></a> — A full-featured Flutter e-commerce app with real-time product sync, custom animated image viewer, and <b>PayFort payment integration</b>.
+    <a href="https://github.com/ShaimaBaasher/CustomerMobileApp"><b>Lawazem</b></a> — A full-featured Flutter B2B e-commerce app,
+    <br><i>Tech Stack:</i> Flutter · Firebase · Bloc/Cubit · Payment Services
+    <br>
+    📱 <b>Download:</b>
+    <a href="https://play.google.com/store/apps/details?id=com.lawazem.customerapp">Lawazem</a> |
+    <a href="https://apps.apple.com/eg/app/lawazem-%D9%84%D9%88%D8%A7%D8%B2%D9%85/id6444859755">iOS</a>
+  </li>
+  <br>
+  <li>
+    <a href="https://github.com/ShaimaBaasher/ExpressMobileApp"><b>Lawazem Courier</b></a> — A delivery and logistics app featuring live order tracking, Firebase notifications .
+    <br><i>Tech Stack:</i> Flutter · Firebase · Bloc · Streams
+    <br>
+    📱 <b>Download:</b>
+    <a href="https://play.google.com/store/apps/details?id=com.lawazem.express">Android</a> |
+    <a href="https://apps.apple.com/eg/app/lawazem-courier/id6503053459">iOS</a>
+  </li>
+    <br>
+    <li>
+    <a href="https://github.com/ShaimaBaasher/CustomerMobileApp"><b>Noor Kids</b></a> — A full-featured Flutter e-commerce app with real-time product sync, custom animated image viewer, and <b>PayFort payment integration</b>.
     <br><i>Tech Stack:</i> Flutter · Firebase · Bloc/Cubit · Payment Services
     <br>
     📱 <b>Download:</b>
@@ -31,14 +49,6 @@
     <a href="https://apps.apple.com/eg/app/lawazem-%D9%84%D9%88%D8%A7%D8%B2%D9%85/id6444859755">iOS</a>
   </li>
   <br>
-  <li>
-    <a href="https://github.com/ShaimaBaasher/ExpressMobileApp"><b>ExpressMobileApp</b></a> — A delivery and logistics app featuring live order tracking, Firebase notifications .
-    <br><i>Tech Stack:</i> Flutter · Firebase · Bloc · Streams . 
-    <br>
-    📱 <b>Download:</b>
-    <a href="https://play.google.com/store/apps/details?id=com.lawazem.express">Android</a> |
-    <a href="https://apps.apple.com/eg/app/lawazem-courier/id6503053459">iOS</a>
-  </li>
 </ul>
 
 
