@@ -22,11 +22,10 @@
 <h3>🚀 Featured Projects</h3>
 
 <ul>
- <li>
-  <a href="https://github.com/ShaimaBaasher/CustomerMobileApp"><b>CustomerMobileApp</b></a> — A full-featured Flutter e-commerce app with real-time product sync, custom animated image viewer (like Amazon/Noon), and <b>PayFort payment integration</b>.
-  <br><i>Tech Stack:</i> Flutter · Firebase · Bloc/Cubit · Amazon Payment Services
-  <br><img src="https://your-image-url.com/customer-app-preview.png" alt="CustomerMobileApp preview" width="400"/>
-</li>
+  <li>
+    <a href="https://github.com/ShaimaBaasher/CustomerMobileApp"><b>CustomerMobileApp</b></a> — A full-featured Flutter e-commerce app with real-time product sync, custom animated image viewer (like Amazon/Noon), and <b>PayFort payment integration</b>.
+    <br><i>Tech Stack:</i> Flutter · Firebase · Bloc/Cubit · Amazon Payment Services
+  </li>
   <br>
   <li>
     <a href="https://github.com/ShaimaBaasher/ExpressMobileApp"><b>ExpressMobileApp</b></a> — A delivery and logistics app featuring live order tracking, Firebase notifications, and advanced Android 14 permission handling.
