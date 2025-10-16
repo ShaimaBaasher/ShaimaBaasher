@@ -36,8 +36,8 @@
     <br><i>Tech Stack:</i> Flutter · Firebase · Bloc · Android/iOS Native Integrations
     <br>
     📱 <b>Download:</b>
-    <a href="https://play.google.com/store/apps/details?id=com.example.expressapp">Android</a> |
-    <a href="https://apps.apple.com/app/id0987654321">iOS</a>
+    <a href="https://play.google.com/store/apps/details?id=com.lawazem.express">Android</a> |
+    <a href="https://apps.apple.com/eg/app/lawazem-courier/id6503053459">iOS</a>
   </li>
 </ul>
 
