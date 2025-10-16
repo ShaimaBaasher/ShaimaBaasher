@@ -14,7 +14,7 @@
 
 <ul>
   <li>
-    <a href=""><b>Lawazem</b></a> — A full-featured Flutter B2B e-commerce app,
+    <a href=""><b>Lawazem</b></a> — A full-featured Flutter B2B e-commerce app.
     <br><i>Tech Stack:</i> Flutter · Firebase · Bloc/Cubit · Payment Services
     <br>
     📱 <b>Download:</b>
