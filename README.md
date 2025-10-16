@@ -23,19 +23,24 @@
 
 <ul>
   <li>
-    <a href="https://github.com/ShaimaBaasher/CustomerMobileApp"><b>CustomerMobileApp</b></a> — A full-featured Flutter e-commerce app with real-time product sync, custom animated image viewer (like Amazon/Noon), and <b>PayFort payment integration</b>.
+    <a href="https://github.com/ShaimaBaasher/CustomerMobileApp"><b>CustomerMobileApp</b></a> — A full-featured Flutter e-commerce app with real-time product sync, custom animated image viewer, and <b>PayFort payment integration</b>.
     <br><i>Tech Stack:</i> Flutter · Firebase · Bloc/Cubit · Payment Services
+    <br>
+    📱 <b>Download:</b>
+    <a href="[https://play.google.com/store/apps/details?id=com.example.customerapp](https://play.google.com/store/apps/details?id=com.lawazem.customerapp)">Android</a> |
+    <a href="[https://apps.apple.com/app/id1234567890](https://apps.apple.com/eg/app/lawazem-%D9%84%D9%88%D8%A7%D8%B2%D9%85/id6444859755)">iOS</a>
   </li>
   <br>
   <li>
     <a href="https://github.com/ShaimaBaasher/ExpressMobileApp"><b>ExpressMobileApp</b></a> — A delivery and logistics app featuring live order tracking, Firebase notifications, and advanced Android 14 permission handling.
     <br><i>Tech Stack:</i> Flutter · Firebase · Bloc · Android/iOS Native Integrations
-  </li>
-  <br>
-  <li>
-    <a href="https://github.com/ShaimaBaasher/Portfolio"><b>Portfolio Overview</b></a> — A collection of my professional projects, highlighting my technical contributions to real-world production apps (NDA-compliant summaries).
+    <br>
+    📱 <b>Download:</b>
+    <a href="https://play.google.com/store/apps/details?id=com.example.expressapp">Android</a> |
+    <a href="https://apps.apple.com/app/id0987654321">iOS</a>
   </li>
 </ul>
+
 
 ---
 
