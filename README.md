@@ -19,7 +19,7 @@
 
 ---
 
-<h3>🚀 Featured Projects</h3>
+<h3>🚀 Projects that I've worked on</h3>
 
 <ul>
   <li>
