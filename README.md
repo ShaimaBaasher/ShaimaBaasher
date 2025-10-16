@@ -1,5 +1,5 @@
 <p align="center">
-  <h2>👋 Hello! I'm Shaima a Mobile developer with 7+ years of experience in software development.</h2>
+  <h2>👋 Hello! I'm Shaima a Mobile developer with 7+ years of experience in Software Development.</h2>
 </p>
 
 <p align="left" style="font-size: 16px;">
