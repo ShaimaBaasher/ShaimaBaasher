@@ -10,15 +10,6 @@
 
 ---
 
-<h3>📚 What I’m working on:</h3>
-<ul>
-  <li>🔍 Building seamless user experiences with interactive and scalable app features.</li>
-  <li>⚡ Enhancing front-end performance using modern state management tools like <b>Bloc</b> , <b>Cubit</b> and <b>GetX</b>.</li>
-  <li>☁️ Integrating secure and scalable backends with <b>Firebase</b> and REST APIs.</li>
-</ul>
-
----
-
 <h3>🚀 Projects that I've worked on</h3>
 
 <ul>
