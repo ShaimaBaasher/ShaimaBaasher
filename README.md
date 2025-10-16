@@ -41,16 +41,15 @@
   </li>
     <br>
     <li>
-    <a href="https://github.com/ShaimaBaasher/CustomerMobileApp"><b>Noor Kids</b></a> — A full-featured Flutter e-commerce app with real-time product sync, custom animated image viewer, and <b>PayFort payment integration</b>.
-    <br><i>Tech Stack:</i> Flutter · Firebase · Bloc/Cubit · Payment Services
+    <a href="https://github.com/ShaimaBaasher/CustomerMobileApp"><b>Noor Kids</b></a> — The Noor Kids Treehouse is an engaging online learning platform focusing on weekly live programs and a library of over 500 past classes, .
+    <br><i>Tech Stack:</i> Flutter · Firebase · Getx · Real-time chat · Streams 
     <br>
     📱 <b>Download:</b>
-    <a href="https://play.google.com/store/apps/details?id=com.lawazem.customerapp">Android</a> |
-    <a href="https://apps.apple.com/eg/app/lawazem-%D9%84%D9%88%D8%A7%D8%B2%D9%85/id6444859755">iOS</a>
+    <a href="https://play.google.com/store/apps/details?id=com.distruptivelabs.noorkids">Android</a> |
+    <a href="https://apps.apple.com/eg/app/noor-kids/id1462609720">iOS</a>
   </li>
   <br>
 </ul>
-
 
 ---
 
