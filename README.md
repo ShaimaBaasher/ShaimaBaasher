@@ -3,7 +3,7 @@
 </p>
 
 <p align="left" style="font-size: 16px;">
-✨ I specialize in mobile app development with a strong focus on <b>Flutter</b> and <b>Android Native</b>, with junior experience in <b>iOS</b> , <b>Spring Boot</b>. and <b>Python</b>. <br><br>
+✨ I specialize in mobile app development with a strong focus on <b>Flutter</b> and <b>Android Native</b>, familiar with <b>iOS</b> , <b>Spring Boot</b>. and <b>Python</b>. <br><br>
 🚀 Passionate about crafting intuitive, scalable, and efficient applications, I thrive on solving complex problems, implementing real-time functionalities, and integrating robust features.<br><br>
 🤖 Currently exploring <b>machine learning frameworks</b> such as <b>TensorFlow</b> and <b>PyTorch</b> to expand my technical scope.
 </p>
