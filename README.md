@@ -24,7 +24,7 @@
 <ul>
   <li>
     <a href="https://github.com/ShaimaBaasher/CustomerMobileApp"><b>CustomerMobileApp</b></a> — A full-featured Flutter e-commerce app with real-time product sync, custom animated image viewer (like Amazon/Noon), and <b>PayFort payment integration</b>.
-    <br><i>Tech Stack:</i> Flutter · Firebase · Bloc/Cubit · Amazon Payment Services
+    <br><i>Tech Stack:</i> Flutter · Firebase · Bloc/Cubit · Payment Services
   </li>
   <br>
   <li>
