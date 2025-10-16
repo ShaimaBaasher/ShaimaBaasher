@@ -32,8 +32,8 @@
   </li>
   <br>
   <li>
-    <a href="https://github.com/ShaimaBaasher/ExpressMobileApp"><b>ExpressMobileApp</b></a> — A delivery and logistics app featuring live order tracking, Firebase notifications, and advanced Android 14 permission handling.
-    <br><i>Tech Stack:</i> Flutter · Firebase · Bloc · Android/iOS .
+    <a href="https://github.com/ShaimaBaasher/ExpressMobileApp"><b>ExpressMobileApp</b></a> — A delivery and logistics app featuring live order tracking, Firebase notifications .
+    <br><i>Tech Stack:</i> Flutter · Firebase · Bloc · Streams . 
     <br>
     📱 <b>Download:</b>
     <a href="https://play.google.com/store/apps/details?id=com.lawazem.express">Android</a> |
