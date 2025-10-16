@@ -27,7 +27,7 @@
     <br><i>Tech Stack:</i> Flutter · Firebase · Bloc/Cubit · Payment Services
     <br>
     📱 <b>Download:</b>
-    <a href="https://play.google.com/store/apps/details?id=com.example.customerapp](https://play.google.com/store/apps/details?id=com.lawazem.customerapp">Android</a> |
+    <a href="https://play.google.com/store/apps/details?id=com.example.customerapp">Android</a> |
     <a href="https://apps.apple.com/eg/app/lawazem-%D9%84%D9%88%D8%A7%D8%B2%D9%85/id6444859755">iOS</a>
   </li>
   <br>
