@@ -45,7 +45,7 @@
     <br><i>Tech Stack:</i> Android · iOS · Firebase · Streams 
     <br>
     📱 <b>Website:</b>
-    <a href="https://www.tirhal.net/">Link</a> 
+    <a href="https://www.tirhal.net/">www.tirhal.net</a> 
   </li>
     <br>
     <li>
