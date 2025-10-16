@@ -44,8 +44,8 @@
     <a href=""><b>Tirhal</b></a> — leading ride-hailing and transportation platform, offering real-time booking, driver tracking, and multiple vehicle options.
     <br><i>Tech Stack:</i> Android · iOS · Firebase · Streams 
     <br>
-    📱 <b>Websitr:</b>
-    <a href="[https://play.google.com/store/apps/details?id=com.distruptivelabs.noorkids](https://www.tirhal.net/)">Link</a> |
+    📱 <b>Website:</b>
+    <a href="https://www.tirhal.net/">Link</a> 
   </li>
     <br>
     <li>
