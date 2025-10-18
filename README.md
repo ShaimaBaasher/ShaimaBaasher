@@ -15,7 +15,7 @@
 <ul>
   <li>
     <a href=""><b>Lawazem</b></a> — A full-featured Flutter B2B e-commerce app.
-    <br><i>Tech Stack:</i> Flutter · Firebase · Bloc/Cubit · Payment Services
+    <!-- <br><i>Tech Stack:</i> Flutter · Firebase · Bloc/Cubit · Payment Services -->
     <br>
     📱 <b>Download:</b>
     <a href="https://play.google.com/store/apps/details?id=com.lawazem.customerapp">Lawazem</a> |
@@ -24,7 +24,7 @@
   <br>
   <li>
     <a href=""><b>Lawazem Courier</b></a> — A delivery and logistics app featuring live order tracking, Firebase notifications .
-    <br><i>Tech Stack:</i> Flutter · Firebase · Bloc · Streams
+    <!-- <br><i>Tech Stack:</i> Flutter · Firebase · Bloc · Streams -->
     <br>
     📱 <b>Download:</b>
     <a href="https://play.google.com/store/apps/details?id=com.lawazem.express">Android</a> |
@@ -33,7 +33,7 @@
      <br>
     <li>
     <a href=""><b>Tirhal</b></a> — leading ride-hailing and transportation platform, offering real-time booking, driver tracking, and multiple vehicle options.
-    <br><i>Tech Stack:</i> Android · iOS · Firebase · Streams 
+    <!-- <br><i>Tech Stack:</i> Android · iOS · Firebase · Streams  -->
     <br>
     📱 <b>Website:</b>
     <a href="https://www.tirhal.net/">www.tirhal.net</a> 
@@ -41,7 +41,7 @@
     <br>
     <li>
     <a href=""><b>Noor Kids</b></a> — The Noor Kids Treehouse is an engaging online learning platform focusing on weekly live programs and a library of over 500 past classes .
-    <br><i>Tech Stack:</i> Flutter · Firebase · Getx · Real-time chat · Streams 
+    <!-- <br><i>Tech Stack:</i> Flutter · Firebase · Getx · Real-time chat · Streams  -->
     <br>
     📱 <b>Download:</b>
     <a href="https://play.google.com/store/apps/details?id=com.distruptivelabs.noorkids">Android</a> |
