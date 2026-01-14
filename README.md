@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2QzOTA3M2U0OTI4ODQ3NDg4OTI4NDc4OTI0ODkyMzQ4OTIzNDg5MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Q8v2g2y2/giphy.gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)" width="100%" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="Coding Animation" />
   <!-- Optional: Add a cool banner or keep the text clean -->
 </p>
 
