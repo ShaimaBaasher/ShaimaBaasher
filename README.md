@@ -1,140 +1,86 @@
 <p align="center">
-  <h2>👋 Hello! I'm Shaima a Mobile developer with 7+ years of experience in Software Development.</h2>
+  <h2>👋 Hello! I'm Shaima</h2>
+  <h3>Mobile-First Software Engineer & AI Enthusiast</h3>
+  <p><i>Building scalable mobile apps with 7+ years of experience in Flutter & Android Native.</i></p>
 </p>
 
-<p align="left" style="font-size: 16px;">
-✨ I specialize in mobile app development with a strong focus on <b>Flutter</b> and <b>Android Native</b>, familiar with <b>iOS</b> , <b>Spring Boot</b>. and <b>Python</b>. <br><br>
-🚀 Passionate about crafting intuitive, scalable, and efficient applications, I thrive on solving complex problems, implementing real-time functionalities, and integrating robust features.<br><br>
-🤖 Currently exploring <b>machine learning frameworks</b> such as <b>TensorFlow</b> and <b>PyTorch</b> to expand my technical scope.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2QzOTA3M2U0OTI4ODQ3NDg4OTI4NDc4OTI0ODkyMzQ4OTIzNDg5MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Q8v2g2y2/giphy.gif" width="100%" alt="Coding Animation" />
+  <!-- Optional: Add a cool banner or keep the text clean -->
 </p>
 
 ---
 
-<h3>🚀 Projects that I've worked on</h3>
+### 🚀 About Me
 
-<ul>
-  <li>
-    <a href=""><b>Lawazem</b></a> — A full-featured Flutter B2B e-commerce app.
-    <!-- <br><i>Tech Stack:</i> Flutter · Firebase · Bloc/Cubit · Payment Services -->
-    <br>
-    📱 <b>Download:</b>
-    <a href="https://play.google.com/store/apps/details?id=com.lawazem.customerapp">Lawazem</a> |
-    <a href="https://apps.apple.com/eg/app/lawazem-%D9%84%D9%88%D8%A7%D8%B2%D9%85/id6444859755">iOS</a>
-  </li>
-  <br>
-  <li>
-    <a href=""><b>Lawazem Courier</b></a> — A delivery and logistics app featuring live order tracking, Firebase notifications .
-    <!-- <br><i>Tech Stack:</i> Flutter · Firebase · Bloc · Streams -->
-    <br>
-    📱 <b>Download:</b>
-    <a href="https://play.google.com/store/apps/details?id=com.lawazem.express">Android</a> |
-    <a href="https://apps.apple.com/eg/app/lawazem-courier/id6503053459">iOS</a>
-  </li>
-     <br>
-    <li>
-    <a href=""><b>Tirhal</b></a> — leading ride-hailing and transportation platform, offering real-time booking, driver tracking, and multiple vehicle options.
-    <!-- <br><i>Tech Stack:</i> Android · iOS · Firebase · Streams  -->
-    <br>
-    📱 <b>Website:</b>
-    <a href="https://www.tirhal.net/">www.tirhal.net</a> 
-  </li>
-    <br>
-    <li>
-    <a href=""><b>Noor Kids</b></a> — The Noor Kids Treehouse is an engaging online learning platform focusing on weekly live programs and a library of over 500 past classes .
-    <!-- <br><i>Tech Stack:</i> Flutter · Firebase · Getx · Real-time chat · Streams  -->
-    <br>
-    📱 <b>Download:</b>
-    <a href="https://play.google.com/store/apps/details?id=com.distruptivelabs.noorkids">Android</a> |
-    <a href="https://apps.apple.com/eg/app/noor-kids/id1462609720">iOS</a>
-  </li>
-  <br>
-</ul>
+✨ I specialize in **Mobile App Development** (Flutter & Android) with strong **Backend** capabilities (Spring Boot, Python).  
+🚀 I thrive on solving complex problems, from real-time logistical tracking to integrating Generative AI into apps.  
+🤖 Currently exploring **LLMs**, **RAG**, and **Agentic AI** to build the next generation of smart applications.
 
 ---
 
-<h3>💡 What I believe in:</h3>
-<ul>
-  <li>🤝 <b>Collaboration</b> — Teamwork makes the dream work!</li>
-  <li>📖 <b>Continuous learning</b> — Staying curious and adaptive in an ever-evolving tech world.</li>
-  <li>🌟 <b>Delivering impact</b> — Creating products that make a real difference.</li>
-</ul>
+### 💡 Featured Project: My AI Portfolio 🧬
+
+I recently transformed my personal portfolio into a **GenAI-powered application**!
+You can chat with it to ask about my experience, skills, and projects.
+
+*   **Tech Stack:** FastAPI, Gemini AI, RAG, Python, HTML/CSS.
+*   **Live Demo:** [shaima-ai-portfolio.onrender.com](https://shaima-ai-portfolio.onrender.com/)
+
+---
+
+### 🛠️ Projects
+
+| Project | Description | Download / Link |
+| :--- | :--- | :--- |
+| **Lawazem** | Full-featured B2B e-commerce app built with Flutter. | [Android](https://play.google.com/store/apps/details?id=com.lawazem.customerapp) \| [iOS](https://apps.apple.com/eg/app/lawazem-%D9%84%D9%88%D8%A7%D8%B2%D9%85/id6444859755) |
+| **Lawazem Courier** | Logistics app with live tracking & Firebase notifications. | [Android](https://play.google.com/store/apps/details?id=com.lawazem.express) \| [iOS](https://apps.apple.com/eg/app/lawazem-courier/id6503053459) |
+| **Tirhal** | Leading ride-hailing platform (The "Uber" of Sudan). | [Website](https://www.tirhal.net/) |
+| **Noor Kids** | Educational platform with live classes & video library. | [Android](https://play.google.com/store/apps/details?id=com.distruptivelabs.noorkids) \| [iOS](https://apps.apple.com/eg/app/noor-kids/id1462609720) |
+
+---
+
+### ⚡ Tech Stack
+
+<div align="center">
+  <!-- Mobile -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  
+  <br>
+
+  <!-- Backend & AI -->
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+
+  <br>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaimaBaasher&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
----
-<div align="left">
-  <!-- Android -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
-  <img width="12" />
-
-  <!-- Flutter -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  <img width="12" />
-
-  <!-- Spring Boot -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
-  <img width="12" />
-
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  
-  <!-- Kotlin -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
-  <img width="12" />
-
-  <!-- Swift -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo" />
-  <img width="12" />
-  
-  <!-- Xcode -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo" />
-
-  <!-- Firebase -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-
-  <!-- Azure -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
-  <img width="12" />
-
-  <!-- Jira -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
-  <img width="12" />
-
-  <!-- GitLab -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo" />
-  <img width="12" />
-
-  <!-- Slack -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo" />
-  <img width="12" />
-
-  <!-- Trello -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" />
-  <img width="12" />
-
-  <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaimaBaasher&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <br>
+  <img src="https://raw.githubusercontent.com/ShaimaBaasher/ShaimaBaasher/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/ShaimaBaasher/ShaimaBaasher/output/snake.svg" alt="Snake animation" />
-
----
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/shaimabaasher/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:shaima.baasher@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  <a href="mailto:shaima.baasher@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
