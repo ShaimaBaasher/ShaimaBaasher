@@ -25,7 +25,7 @@ I recently transformed my personal portfolio into a **GenAI-powered application*
 You can chat with it to ask about my experience, skills, and projects.
 
 *   **Tech Stack:** FastAPI, Gemini AI, RAG, Python, HTML/CSS.
-*   **Live Demo:** [shaima-ai-portfolio.onrender.com](https://shaima-ai-portfolio.vercel.app/)
+*   **Live Demo:** [https://shaima-ai-portfolio.vercel.app/](https://shaima-ai-portfolio.vercel.app/)
 
 ---
 
