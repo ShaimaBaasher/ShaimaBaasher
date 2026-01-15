@@ -35,7 +35,7 @@ You can chat with it to ask about my experience, skills, and projects.
 | :--- | :--- | :--- |
 | **Lawazem** | Full-featured B2B e-commerce app built with Flutter. | [Android](https://play.google.com/store/apps/details?id=com.lawazem.customerapp) \| [iOS](https://apps.apple.com/eg/app/lawazem-%D9%84%D9%88%D8%A7%D8%B2%D9%85/id6444859755) |
 | **Lawazem Courier** | Logistics app with live tracking & Firebase notifications. | [Android](https://play.google.com/store/apps/details?id=com.lawazem.express) \| [iOS](https://apps.apple.com/eg/app/lawazem-courier/id6503053459) |
-| **Tirhal** | Leading ride-hailing platform (The "Uber" of Sudan). | [Website](https://www.tirhal.net/) |
+| **Tirhal** | Leading ride-hailing platform . | [Website](https://www.tirhal.net/) |
 | **Noor Kids** | Educational platform with live classes & video library. | [Android](https://play.google.com/store/apps/details?id=com.distruptivelabs.noorkids) \| [iOS](https://apps.apple.com/eg/app/noor-kids/id1462609720) |
 
 ---
