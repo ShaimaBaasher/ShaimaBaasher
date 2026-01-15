@@ -1,7 +1,7 @@
 <p align="center">
   <h2>👋 Hello! I'm Shaima</h2>
   <h3>Mobile-First Software Engineer & AI Enthusiast</h3>
-  <p><i>Building scalable mobile apps with 7+ years of experience in Flutter & Android Native.</i></p>
+  <p><i>Building scalable mobile apps with years of experience in Flutter & Android Native.</i></p>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ I recently transformed my personal portfolio into a **GenAI-powered application*
 You can chat with it to ask about my experience, skills, and projects.
 
 *   **Tech Stack:** FastAPI, Gemini AI, RAG, Python, HTML/CSS.
-*   **Live Demo:** [shaima-ai-portfolio.onrender.com](https://shaima-ai-portfolio.onrender.com/)
+*   **Live Demo:** [shaima-ai-portfolio.onrender.com](https://shaima-ai-portfolio.vercel.app/)
 
 ---
 
