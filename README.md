@@ -76,7 +76,7 @@ Dedicated courier and logistics app for Tirhal ecosystem.
 <tr>
 <td width="50%">
 
-#### �📚 Noor Kids
+#### 📚 Noor Kids
 Educational platform with live classes & video library.  
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.distruptivelabs.noorkids) [![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/eg/app/noor-kids/id1462609720)
 
