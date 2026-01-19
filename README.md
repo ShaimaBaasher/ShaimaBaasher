@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-✨ I specialize in **Mobile App Development** (Flutter, Android, & iOS [Junior]) with strong **Backend** capabilities (Spring Boot, Python).  
+✨ I specialize in **Mobile App Development** (Flutter, Android, & iOS) with strong **Backend** capabilities (Spring Boot, Python).  
 🚀 I thrive on solving complex problems, from real-time logistical tracking to integrating Generative AI into apps.  
 🤖 Currently exploring **LLMs**, **RAG**, and **Agentic AI** to build the next generation of smart applications.
 
