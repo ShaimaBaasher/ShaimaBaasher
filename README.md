@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-✨ I specialize in **Mobile App Development** (Flutter, Android, & iOS [Junior]) with **Backend** capabilities (Spring Boot, Python).  
+✨ I specialize in **Mobile App Development** (Flutter, Android, & iOS [Junior]) with strong **Backend** capabilities (Spring Boot, Python).  
 🚀 I thrive on solving complex problems, from real-time logistical tracking to integrating Generative AI into apps.  
 🤖 Currently exploring **LLMs**, **RAG**, and **Agentic AI** to build the next generation of smart applications.
 
@@ -67,12 +67,6 @@ Leading ride-hailing platform.
 <tr>
 <td width="50%">
 
-#### � Tirhal
-Leading ride-hailing platform.  
-[![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://www.tirhal.net/)
-
-</td>
-<td width="50%">
 
 #### 🚕 Tirhal Courier
 Dedicated courier and logistics app for Tirhal ecosystem.
