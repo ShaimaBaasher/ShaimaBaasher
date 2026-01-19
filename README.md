@@ -1,7 +1,7 @@
 <p align="center">
   <h2>👋 Hello! I'm Shaima</h2>
   <h3>Mobile-First Software Engineer & AI Enthusiast</h3>
-  <p><i>Building scalable mobile apps with years of experience in Flutter & Android Native.</i></p>
+  <p><i>Building scalable mobile apps with years of experience in Flutter, Android Native, & iOS (Junior).</i></p>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-✨ I specialize in **Mobile App Development** (Flutter & Android) with strong **Backend** capabilities (Spring Boot, Python).  
+✨ I specialize in **Mobile App Development** (Flutter, Android, & iOS [Junior]) with strong **Backend** capabilities (Spring Boot, Python).  
 🚀 I thrive on solving complex problems, from real-time logistical tracking to integrating Generative AI into apps.  
 🤖 Currently exploring **LLMs**, **RAG**, and **Agentic AI** to build the next generation of smart applications.
 
@@ -33,6 +33,7 @@ You can chat with it to ask about my experience, skills, and projects.
 
 | Project | Description | Download / Link |
 | :--- | :--- | :--- |
+| **Waqoodak** | Fuel delivery and vehicle services app (Under Construction 🚧). | Coming Soon |
 | **Lawazem** | Full-featured B2B e-commerce app built with Flutter. | [Android](https://play.google.com/store/apps/details?id=com.lawazem.customerapp) \| [iOS](https://apps.apple.com/eg/app/lawazem-%D9%84%D9%88%D8%A7%D8%B2%D9%85/id6444859755) |
 | **Lawazem Courier** | Logistics app with live tracking & Firebase notifications. | [Android](https://play.google.com/store/apps/details?id=com.lawazem.express) \| [iOS](https://apps.apple.com/eg/app/lawazem-courier/id6503053459) |
 | **Tirhal** | Leading ride-hailing platform . | [Website](https://www.tirhal.net/) |
