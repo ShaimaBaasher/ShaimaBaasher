@@ -4,11 +4,11 @@
   <p><i>Building scalable mobile apps with years of experience in Flutter, Android Native, & iOS (Junior).</i></p>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="Coding Animation" />
   <!-- Optional: Add a cool banner or keep the text clean -->
 </p>
-
+ -->
 ---
 
 ### 🚀 About Me
