@@ -8,7 +8,6 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="Coding Animation" />
   <!-- Optional: Add a cool banner or keep the text clean -->
 </p>
- -->
 ---
 
 ### 🚀 About Me
